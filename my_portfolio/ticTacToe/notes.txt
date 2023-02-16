@@ -1,0 +1,24 @@
+HTML
+    1. h1 - Tic Tac Toe
+    2. h2 - whose turn? variable
+    3. Create a 3x3 grid of squares
+    4. link css and script defer
+
+JS
+    1. Target the boxes
+    2. Add a click event to every boxes
+        3. Check is textContent not empty
+            4. Add O or X (global variable to track)
+            5. function checkWinner();
+
+Function checkWinner();
+[
+    [0,3,6],
+    [1,4,7],
+    [2,5,8],
+    [0,1,2],
+    [3,4,5],
+    [6,7,8],
+    [0,4,8],
+    [6,4,2],
+]
